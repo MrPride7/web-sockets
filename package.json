@@ -1,0 +1,14 @@
+{
+  "name": "firstlab",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "ws": "^7.1.2"
+  }
+}
